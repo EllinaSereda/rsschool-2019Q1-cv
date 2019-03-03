@@ -48,7 +48,19 @@ Course: JavaScript
 Bachelor's degree on Information Resources Management  
   
 ## English 
-#### C1 - Advanced level
+#### C1 - Advanced level  
+##### Eduction
+###### 2006 - 2017 - learning at school.
+###### 2017 - 2019 - at univercity.
+###### 2015 - 2018 - privat lessons with a tutor  
+##### Experience
+* Centralized testing - 95 poins.  
+* Watching films, TED shows, videos on Youtube in English  
+* Speaking practice while going abroad
+
+
+
+
 
 
 
