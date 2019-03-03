@@ -2,7 +2,7 @@
   
 ## Contacts
 ##### Phone: +375299758335  
-##### Email: ellinasereda18@gmail.com
+##### Email: <ellinasereda18@gmail.com>
 ##### Skype: <https://join.skype.com/invite/cyo8CtlDlQ1>   
 ##### Linkedin: <https://www.linkedin.com/in/ellina-sereda-027022177>
 ##### Github: <https://github.com/EllinaSereda>    
