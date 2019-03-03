@@ -4,7 +4,8 @@
 ##### Phone:+375299758335  
 ##### Email:ellinasereda18@gmail.com
 ##### Skype:https://join.skype.com/invite/cyo8CtlDlQ1   
-##### Linkedin:https://www.linkedin.com/in/ellina-sereda-027022177  
+##### Linkedin:https://www.linkedin.com/in/ellina-sereda-027022177
+##### Github:https://github.com/EllinaSereda    
 
 ## Summary  
 I started my career in Web last year. I took a course on “Web Design” at the university  and got passionate about web development. I continued my studies at It-Academy, where I studied JS, React, TS and the basics of Angular. I strive to develop my skills and become a truly great specialist. I am ready to work hard, cause I want to prove myself and become part of the web development team.  
