@@ -30,19 +30,25 @@ h6{
   padding: 8px 0;
   font-size: 16px;
 }
-.contacts section {
-  display: flex;
-  justify-content: flex-start;
+.contacts img{
+  float: left;
+}
+.contacts img:hover{
+  transform: scale(1.1);
 }
 .contacts ul{
-  margin-left:50px;
+  float: left;
+  width: 600px;
 }
 .contacts ul li{
-  padding: 8px 0;
+  padding: 8px 30px;
   font-weight: bold;
 }
 .contacts ul li a{
   font-weight: normal;
+}
+.summary{
+  clear: both;
 }
 .skills ul li{
   padding: 2px;
@@ -52,7 +58,7 @@ h6{
 }
 .skills ul ul li{
   margin-left: 50px;
-  font-size:14px;
+  font-size: 14px;
   list-style-type: circle;
 }
 .education span{
@@ -70,6 +76,9 @@ p{
   padding: 5px 0;
 }
 footer{
-  text-align:center;
+  text-align: center;
   background-color: rgba(244, 205, 221, 1);
+}
+a:hover{
+  color: #ff0059;
 }
